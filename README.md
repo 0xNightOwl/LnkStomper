@@ -13,12 +13,14 @@ CLI tool that automates the process of generating Windows (.lnk) files
 ## Installation
 
 ```
-git clone  
+git clone  https://github.com/0xNightOwl/LnkStomper
 ```
 
 ```
 pip install -r requirements.txt
 ```
+
+- Lnks created will automatically bypass MOTW 
 
 ## Usage Examples
 ```
